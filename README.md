@@ -98,7 +98,7 @@ I actively participate in **CTFs** and continuously explore vulnerabilities to s
 ## 🏅 Achievements & Certifications
 
 - 👑 **Hall of Fame**: NASA, Air Canada, Village Roadshow  
-- 🥇 **TryHackMe Global Rank**: Top 3%  
+- 🥇 **TryHackMe Global Rank**: Top 1%  
 - 🏆 **CTFs**: Indian Cyber Security Solution | ByteBash Hackathon  
 - 📜 **Certifications**:
   - CEH v12 – Certified Ethical Hacker (EC-Council)  
