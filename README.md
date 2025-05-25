@@ -1,40 +1,80 @@
-# Ansh Raj
+Ansh Raj 👨‍💻
+🚀 Security Engineer Intern @Hashira | Web3 & Blockchain Security | Penetration Testing | CTF Player
+🏆 Hall of Fame: NASA | Air Canada | Village Roadshow | Top 3% on TryHackMe
+📍 B.Tech CSE @Lovely Professional University
 
-👋 Hi, I’m Ansh Raj! Welcome to my GitHub profile.
+👋 About Me
+I’m a cybersecurity enthusiast driven by curiosity and real-world application. I specialize in Penetration Testing, Web3 Security, Threat Monitoring, and Application Security. I actively participate in CTFs and constantly explore vulnerabilities to stay sharp in offensive security.
 
-## About Me
-I'm an aspiring Cyber Security Analyst with a passion for hands-on Graphic Designing and fundamental management in business. Currently, I'm pursuing my B.Tech in Computer Science at Lovely Professional University.
+🌱 Currently Learning: API Security, Advanced Pentesting, and Cloud Security (AWS)
 
-- 🌱 I’m currently learning: Cybersecurity essentials, Network security, Penetration Testing, Cloud security.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love participating in Capture The Flag (CTF) competitions and exploring new hacking techniques!
+🛠️ Tools of Trade: Burp Suite, Nmap, Metasploit, SIEM, ELK Stack, Wireshark
 
-## Projects
+⚔️ Fun Fact: I love breaking things to learn how to protect them better.
 
-### Kids Learning Game
-- **Skills**: Python, HTML
-- **Description**: A GUI game developed using Python on Visual Studio Code IDE. Users are shown images for a particular time and are asked to select the correct image name from a list.
-- **Learning Outcome**: Basic of GUI Application in Python.
+💼 Projects
+🔐 Shadow Watcher (2025)
+Technologies: Python, OSINT, Automation, Linux
 
-### Quiz Application
-- **Skills**: Java, HTML, CSS
-- **Description**: A quiz management system developed in Java. It automates quiz creation, management, and administration, providing customizable settings and real-time feedback to quiz takers.
-- **Learning Outcome**: Implementation of Authentication on a website.
+A reconnaissance automation tool for bug bounty hunters designed to mirror real-time hacker behavior.
 
-## Experience
+Supports OS-level automation and leverages public data sources for intelligent asset discovery.
 
-### Newton School Coding Club - Head of Graphic Design
-- **Duration**: Nov 2022 - Present
-- **Responsibilities**: Leading the club's visual identity and creative vision. Collaborating closely with a talented team of designers to produce high-quality designs using tools like Adobe Photoshop, Illustrator, Lightroom, Canva, etc.
+Built as part of an autonomous AI hacking assistant for bug bounty reconnaissance.
 
-### Techyons - Member of Content Department
-- **Duration**: Nov 2022 - Present
-- **Responsibilities**: Contributing to various projects in the content department. Mastering design software to stay up-to-date with the latest tools and techniques in graphic design.
+📊 Compliance Monitoring Dashboard (May 2024 – Present)
+Tech Stack: ELK Stack, Python, Open-Source SIEM
 
-## How to Reach Me
-- 📧 Email: theanshchaurasiya@gmail.com
-- 📱 Phone: +91 9155452233
-- 🌐 LinkedIn: [theanshchaurasiya](https://www.linkedin.com/in/theanshchaurasiya/)
-- 🐦 Twitter: [@theanshchaurasiya](https://twitter.com/theanshchaurasiya)
+Designed a real-time GDPR compliance tracker to monitor sensitive data access.
 
-Feel free to reach out to me for collaborations, discussions, or just to say hi!
+Implemented 90% automated alerts and 85% dashboard visualizations to detect and respond to threats.
+
+🛡️ Keylogger (Dec 2023)
+Tech Stack: Python, Pynput
+
+Developed a stealth keylogger to study human-computer interaction behavior.
+
+Provided insight into employee activity monitoring and potential insider threats (for ethical research use).
+
+🔰 Positions of Responsibility
+TryHackMe — CTF Player (Jan 2024 – Present)
+Solved 100+ labs in areas like Forensics, IDOR, SQLi, Metasploit, and Linux Privilege Escalation.
+
+Specialized in OWASP Top 10 exploitation, network traffic analysis, and real-world attack emulation.
+
+CFSS — Penetration Tester (June 2024 – July 2024)
+Conducted black-box testing on web applications and internal networks.
+
+Used Nmap, Burp Suite, and Metasploit for scanning, enumeration, and exploitation.
+
+Performed cryptographic analysis and post-exploitation on misconfigured systems.
+
+💻 Technical Skills
+Languages: Python, Bash, C/C++ (basic)
+
+Security Tools: Burp Suite, Metasploit, Wireshark, Nmap, Nessus, Hashcat, OpenSSL
+
+Technologies: SIEM, ELK Stack, Linux, OWASP Top 10, Cloud Security (AWS), OSINT
+
+Other Skills: Graphic Design (Photoshop, Illustrator), Content Writing
+
+🏆 Achievements & Certifications
+🏅 Hall of Fame: NASA, Air Canada, Village Roadshow
+
+🥇 TryHackMe: Global Rank - Top 3%
+
+🏆 CTF: Indian Cyber Security Solution, ByteBash Hackathon
+
+🎓 Certifications:
+
+CEHv12 – Certified Ethical Hacker (EC-Council)
+
+eJPTv2 – Junior Penetration Tester (INE)
+
+📬 How to Reach Me
+📧 theanshchaurasiya@gmail.com
+🔗 LinkedIn
+🐙 GitHub
+📱 +91 9155452233
+
+Always open to collaboration, internships, bug bounty programs, or simply a good hacking discussion.
