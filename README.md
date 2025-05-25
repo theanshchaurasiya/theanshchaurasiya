@@ -112,4 +112,4 @@ I actively participate in **CTFs** and continuously explore vulnerabilities to s
 🐙 [**GitHub**](https://github.com/YOURUSERNAME)  
 📱 **Phone**: +91 91554 52233  
 
-> Open to collaborations, internships, bug bounty programs, or a good hacking discussion.
+> Open to collaborations, bug bounty programs, or a good hacking discussion.
