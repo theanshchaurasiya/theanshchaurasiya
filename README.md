@@ -1,80 +1,115 @@
-Ansh Raj 👨‍💻
-🚀 Security Engineer Intern @Hashira | Web3 & Blockchain Security | Penetration Testing | CTF Player
-🏆 Hall of Fame: NASA | Air Canada | Village Roadshow | Top 3% on TryHackMe
-📍 B.Tech CSE @Lovely Professional University
+# 👨‍💻 Ansh Raj
 
-👋 About Me
-I’m a cybersecurity enthusiast driven by curiosity and real-world application. I specialize in Penetration Testing, Web3 Security, Threat Monitoring, and Application Security. I actively participate in CTFs and constantly explore vulnerabilities to stay sharp in offensive security.
+**Security Engineer Intern @Hashira** | **Web3 & Blockchain Security** | **Penetration Testing** | **CTF Player**
 
-🌱 Currently Learning: API Security, Advanced Pentesting, and Cloud Security (AWS)
+🏆 **Hall of Fame**: NASA | Air Canada | Village Roadshow  
+📍 **Top 3%** on TryHackMe | **B.Tech CSE** @Lovely Professional University  
 
-🛠️ Tools of Trade: Burp Suite, Nmap, Metasploit, SIEM, ELK Stack, Wireshark
+---
 
-⚔️ Fun Fact: I love breaking things to learn how to protect them better.
+## 👋 About Me
 
-💼 Projects
-🔐 Shadow Watcher (2025)
-Technologies: Python, OSINT, Automation, Linux
+I'm a cybersecurity enthusiast driven by curiosity and real-world application.  
+I specialize in:
 
-A reconnaissance automation tool for bug bounty hunters designed to mirror real-time hacker behavior.
+- ✅ Penetration Testing  
+- ✅ Web3 Security  
+- ✅ Threat Monitoring  
+- ✅ Application Security  
 
-Supports OS-level automation and leverages public data sources for intelligent asset discovery.
+I actively participate in **CTFs** and continuously explore vulnerabilities to sharpen my offensive skills.
 
-Built as part of an autonomous AI hacking assistant for bug bounty reconnaissance.
+---
 
-📊 Compliance Monitoring Dashboard (May 2024 – Present)
-Tech Stack: ELK Stack, Python, Open-Source SIEM
+## 🌱 Currently Learning
 
-Designed a real-time GDPR compliance tracker to monitor sensitive data access.
+- API Security  
+- Advanced Pentesting  
+- Cloud Security (AWS)
 
-Implemented 90% automated alerts and 85% dashboard visualizations to detect and respond to threats.
+---
 
-🛡️ Keylogger (Dec 2023)
-Tech Stack: Python, Pynput
+## 🛠️ Tools of the Trade
 
-Developed a stealth keylogger to study human-computer interaction behavior.
+- **Security**: Burp Suite, Nmap, Metasploit, Wireshark, Nessus  
+- **Monitoring**: SIEM, ELK Stack  
+- **Other**: Hashcat, OpenSSL, Linux, OSINT  
 
-Provided insight into employee activity monitoring and potential insider threats (for ethical research use).
+---
 
-🔰 Positions of Responsibility
-TryHackMe — CTF Player (Jan 2024 – Present)
-Solved 100+ labs in areas like Forensics, IDOR, SQLi, Metasploit, and Linux Privilege Escalation.
+## ⚔️ Fun Fact
 
-Specialized in OWASP Top 10 exploitation, network traffic analysis, and real-world attack emulation.
+> I love breaking things just to learn how to protect them better.
 
-CFSS — Penetration Tester (June 2024 – July 2024)
-Conducted black-box testing on web applications and internal networks.
+---
 
-Used Nmap, Burp Suite, and Metasploit for scanning, enumeration, and exploitation.
+## 💼 Featured Projects
 
-Performed cryptographic analysis and post-exploitation on misconfigured systems.
+### 🔐 Shadow Watcher (2025)
+> A reconnaissance automation tool for bug bounty hunters designed to mirror real-time hacker behavior.
 
-💻 Technical Skills
-Languages: Python, Bash, C/C++ (basic)
+- OS-level automation + public data asset discovery  
+- Built as part of an autonomous AI hacking assistant  
+- 🛠 Tech: Python, Linux, OSINT
 
-Security Tools: Burp Suite, Metasploit, Wireshark, Nmap, Nessus, Hashcat, OpenSSL
+---
 
-Technologies: SIEM, ELK Stack, Linux, OWASP Top 10, Cloud Security (AWS), OSINT
+### 📊 Compliance Monitoring Dashboard (2024 – Present)
+> Real-time GDPR compliance tracker for sensitive data access monitoring.
 
-Other Skills: Graphic Design (Photoshop, Illustrator), Content Writing
+- 90% automated alerting system  
+- 85% dashboard visualization coverage  
+- 🛠 Tech: Python, ELK Stack, SIEM
 
-🏆 Achievements & Certifications
-🏅 Hall of Fame: NASA, Air Canada, Village Roadshow
+---
 
-🥇 TryHackMe: Global Rank - Top 3%
+### 🛡️ Keylogger (Dec 2023)
+> Ethical keylogger for behavior analysis and insider threat research.
 
-🏆 CTF: Indian Cyber Security Solution, ByteBash Hackathon
+- Stealth mode tracking and HCI analysis  
+- 🛠 Tech: Python, Pynput
 
-🎓 Certifications:
+---
 
-CEHv12 – Certified Ethical Hacker (EC-Council)
+## 🔰 Positions of Responsibility
 
-eJPTv2 – Junior Penetration Tester (INE)
+### 🏴 TryHackMe — CTF Player (2024 – Present)
+- Solved 100+ labs: Forensics, SQLi, IDOR, PrivEsc  
+- Focus on OWASP Top 10, network analysis, real-world emulation
 
-📬 How to Reach Me
-📧 theanshchaurasiya@gmail.com
-🔗 LinkedIn
-🐙 GitHub
-📱 +91 9155452233
+### 🧪 CFSS — Penetration Tester (June–July 2024)
+- Conducted black-box testing, internal/external recon  
+- Tools: Nmap, Burp Suite, Metasploit  
+- Performed cryptographic attacks and post-exploitation
 
-Always open to collaboration, internships, bug bounty programs, or simply a good hacking discussion.
+---
+
+## 💻 Technical Skills
+
+**Languages**: Python, Bash, C/C++ (basic)  
+**Security Tools**: Burp Suite, Metasploit, Nmap, Nessus, Wireshark  
+**Technologies**: ELK Stack, Linux, SIEM, Cloud Security (AWS), OWASP, OSINT  
+**Creative**: Photoshop, Illustrator  
+**Other**: Technical Writing, Documentation
+
+---
+
+## 🏅 Achievements & Certifications
+
+- 👑 **Hall of Fame**: NASA, Air Canada, Village Roadshow  
+- 🥇 **TryHackMe Global Rank**: Top 3%  
+- 🏆 **CTFs**: Indian Cyber Security Solution | ByteBash Hackathon  
+- 📜 **Certifications**:
+  - CEH v12 – Certified Ethical Hacker (EC-Council)  
+  - eJPT v2 – Junior Penetration Tester (INE)
+
+---
+
+## 📬 Contact Me
+
+📧 **Email**: theanshchaurasiya@gmail.com  
+🔗 [**LinkedIn**](https://linkedin.com/in/YOURUSERNAME)  
+🐙 [**GitHub**](https://github.com/YOURUSERNAME)  
+📱 **Phone**: +91 91554 52233  
+
+> Open to collaborations, internships, bug bounty programs, or a good hacking discussion.
