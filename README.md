@@ -3,7 +3,7 @@
 **Security Engineer Intern @Hashira** | **Web3 & Blockchain Security** | **Penetration Testing** | **CTF Player**
 
 🏆 **Hall of Fame**: NASA | Air Canada | Village Roadshow  
-📍 **Top 3%** on TryHackMe | **B.Tech CSE** @Lovely Professional University  
+📍 **Top 1%** on TryHackMe | **B.Tech CSE** @Lovely Professional University  
 
 ---
 
