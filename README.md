@@ -16,6 +16,7 @@ I specialize in:
 - ✅ Web3 Security  
 - ✅ Threat Monitoring  
 - ✅ Application Security  
+- ✅ API Testing
 
 I actively participate in **CTFs** and continuously explore vulnerabilities to sharpen my offensive skills.
 
