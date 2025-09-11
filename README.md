@@ -108,14 +108,14 @@ A reconnaissance automation tool for bug bounty hunters designed to mirror real-
 **🎓 Certifications:**
 - CEHv12 — Certified Ethical Hacker (EC-Council)  
 - eJPTv2 — Junior Penetration Tester (INE)
+- PT1 - Junior Penetration Tester (TryHackMe)
 
 ---
 
 ## 📬 Contact Me
 
 - 📧 Email: theanshchaurasiya@gmail.com  
-- 🐙 GitHub: [github.com/Ansh-Raj](https://github.com/Ansh-Raj)  
-- 🔗 LinkedIn: [linkedin.com/in/anshraj007](https://linkedin.com/in/anshraj007)  
-- 📱 Phone: +91 9155452233
+- 🐙 GitHub: [github.com/Ansh-Raj](https://github.com/theanshchaurasiya)  
+- 🔗 LinkedIn: [linkedin.com/in/theanshchaurasiya](https://linkedin.com/in/theanshchaurasiya)
 
 > Open to collaborations, internships, bug bounty programs, and great hacking conversations. Let’s connect!
