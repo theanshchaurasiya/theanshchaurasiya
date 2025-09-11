@@ -1,6 +1,6 @@
 <h1 align="center">Ansh Raj 👨‍💻</h1>
 <p align="center">
-  <strong>Security Engineer Intern @Hashira</strong> • Web3 & Blockchain Security • Penetration Testing • CTF Player 🧠  
+  <strong>Security Engineer @Hashira</strong> • Web3 & Blockchain Security • Penetration Testing • CTF Player 🧠  
 </p>
 <p align="center">
   🏆 Hall of Fame: NASA | Air Canada | Village Roadshow • 🎯 Top 1% on TryHackMe • 📍 B.Tech CSE @Lovely Professional University
@@ -38,7 +38,7 @@ I love exploring vulnerabilities and breaking things to learn how to defend them
 
 ## 💼 Experience
 
-### 🛡️ Security Engineer Intern — **Hashira**  
+### 🛡️ Security Engineer — **Hashira**  
 📍 Hyderabad, Telangana, India (On-site)  
 🗓️ Feb 2025 – Present
 
